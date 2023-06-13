@@ -1,2 +1,2 @@
 # Module-17
-    Please check the "database/migrations/" folder
+    Please check the "blog/app/Http/Controllers/testController.php" folder
